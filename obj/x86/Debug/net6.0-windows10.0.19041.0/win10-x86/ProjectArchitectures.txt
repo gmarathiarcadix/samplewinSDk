@@ -1,0 +1,1 @@
+D:\windowssdk\TestingWinsdk\TestingWinsdk\TestingWinsdk.csproj;x86

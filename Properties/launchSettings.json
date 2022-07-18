@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestingWinsdk (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestingWinsdk (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
